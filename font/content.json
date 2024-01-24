@@ -1,8 +1,8 @@
 {
     "to": "Yidan",
-    "from": "Shuai",
-    "recipient": "译丹",
-    "sender": "侯帅",
+    "from": "HouShuai",
+    "recipient": "Yidan",
+    "sender": "HouShuai",
     "title": "ALetterToYidan",
     "stamp": "./img/stamp.png",
     "bgm": "./bgm/bgm.mp3",
